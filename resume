@@ -1,0 +1,94 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Resume - Pooja Patel">
+  <title>Resume - Pooja Patel</title>
+</head>
+
+<body>
+
+  <h1>Pooja Patel</h1>
+
+  <p>
+    Aspiring Web Developer<br>
+    Bareilly, Uttar Pradesh, India<br>
+    Email: Your Email | Phone: Your Number
+  </p>
+
+  <hr>
+
+  <h2>Objective</h2>
+  <p>
+    Motivated BCA AI student interested in Web Development
+    and Artificial Intelligence. Looking for an opportunity
+    to improve my skills and gain practical experience.
+  </p>
+
+  <hr>
+
+  <h2>Education</h2>
+
+  <h3>BCA in Artificial Intelligence</h3>
+  <p>
+    College/University: Your College Name<br>
+    Expected Graduation: 2029
+  </p>
+
+  <h3>Senior Secondary (XII)</h3>
+  <p>
+    National Institute of Open Schooling<br>
+    Year: 2026 | Percentage: 62%
+  </p>
+
+  <h3>Secondary (X)</h3>
+  <p>
+    Radha Madhav Public School (CBSE)<br>
+    Year: 2024 | Percentage: 66%
+  </p>
+
+  <hr>
+
+  <h2>Skills</h2>
+  <p>
+    HTML5, CSS3, JavaScript (Basics), React.js (Basics),
+    Java (Learning), Git, GitHub, VS Code,
+    Artificial Intelligence, Prompt Engineering
+  </p>
+
+  <hr>
+
+  <h2>Projects</h2>
+
+  <h3>Policy Forge</h3>
+  <p>
+    Technologies: HTML, CSS, JavaScript, Python, Java, AI Tools
+  </p>
+  <p>
+    Policy Forge is an application that helps web developers
+    create development policies and Terms & Conditions
+    for their applications.
+  </p>
+
+  <hr>
+
+  <h2>Certifications</h2>
+  <p>
+    Prompt Engineering - BE10X (2026)
+  </p>
+
+  <hr>
+
+  <h2>Declaration</h2>
+  <p>
+    <small>
+      I hereby declare that the above information is true
+      to the best of my knowledge.
+    </small>
+  </p>
+
+</body>
+</html>
