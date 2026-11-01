@@ -1,0 +1,114 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Resume - Pooja Patel">
+  <title>Resume - Pooja Patel</title>
+</head>
+
+<body>
+
+  <header>
+    <h1>Pooja Patel</h1>
+    <p>Aspiring Web Developer</p>
+
+    <address>
+      Bareilly, Uttar Pradesh, India<br>
+      <a href="poojapate2728@gmail.com></a> |
+      <a href="tel:8679480577"></a>
+    </address>
+  </header>
+
+  <main>
+
+    <section id="objective">
+      <h2>Objective</h2>
+      <p>
+        Motivated BCA AI student interested in
+        <strong>Web Development</strong> and Artificial Intelligence.
+        Looking for opportunities to improve my technical skills.
+      </p>
+    </section>
+
+    <section id="education">
+      <h2>Education</h2>
+
+      <article>
+        <h3>BCA in Artificial Intelligence</h3>
+        <p>Invertis university·
+          <time datetime="2026">2026</time> –
+          <time datetime="2029">2029</time>
+        </p>
+      </article>
+
+      <article>
+        <h3>Senior Secondary (XII)</h3>
+        <p>
+          National Institute of Open Schooling · 2026 · 62%
+        </p>
+      </article>
+
+      <article>
+        <h3>Secondary (X)</h3>
+        <p>
+          Radha Madhav Public School (CBSE) · 2024 · 66%
+        </p>
+      </article>
+    </section>
+
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>JavaScript (Basics)</li>
+        <li>React.js (Basics)</li>
+        <li>Java (Learning)</li>
+        <li>Git &amp; GitHub</li>
+        <li>VS Code</li>
+        <li>Artificial Intelligence</li>
+        <li>Prompt Engineering</li>
+      </ul>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+
+      <article>
+        <h3>Policy Forge</h3>
+        <p>
+          Technologies: HTML, CSS, JavaScript, Python,
+          Java and AI Tools.
+        </p>
+        <p>
+          An application that helps web developers create
+          development policies and Terms &amp; Conditions
+          for their applications.
+        </p>
+      </article>
+    </section>
+
+    <section id="certifications">
+      <h2>Certifications</h2>
+      <article>
+        <h3>Prompt Engineering</h3>
+        <p>BE10X · 2026</p>
+      </article>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>
+      <small>
+        I hereby declare that the above information
+        is true to the best of my knowledge.
+      </small>
+    </p>
+  </footer>
+
+</body>
+</html>
