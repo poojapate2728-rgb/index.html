@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Hi, I'm Pooja – Personal Introduction – HTML & CSS course assignment">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hi, I'm Pooja – Personal Introduction</title>
+</head>
+<body>
+
+  <header>
+    <h1>Hi, I'm Pooja Patel 👋</h1>
+    <p><em>BCA AI Student · Web Development Learner · Technology Enthusiast</em></p>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>I am a BCA Artificial Intelligence student from Bareilly, Uttar Pradesh. I enjoy learning new technologies and building websites. I am currently learning HTML, CSS, Java and JavaScript.</p>
+    </section>
+
+    <section>
+      <h2>Quick Facts</h2>
+      <ul>
+        <li><strong>Age:</strong> 18</li>
+        <li><strong>City:</strong> Bareilly, Uttar Pradesh, India</li>
+        <li><strong>Course:</strong> BCA AI</li>
+        <li><strong>Languages:</strong> Hindi, English</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>My Goals</h2>
+      <ol>
+        <li>Complete my HTML and CSS course.</li>
+        <li>Improve my Java and programming skills.</li>
+        <li>Build real-world websites and projects.</li>
+        <li>Learn JavaScript and React.js.</li>
+        <li>Become a professional Web Developer.</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p>GitHub: <a href="https://github.com/poojapate2728-rgb">My GitHub Profile</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/pooja-patel-666278440">My LinkedIn Profile</a></p>
+      <p>LeetCode: <a href="https://leetcode.com/u/pooja2127">My LeetCode Profile</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Pooja Patel</p>
+  </footer>
+
+</body>
+</html>
